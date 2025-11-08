@@ -114,6 +114,7 @@ style: atualizar layout único
 
 👨‍💻 Autor
 
-Desenvolvido por Gubaun / Luiz Gabriel Gazolli dos Santos
+Desenvolvido por Lucas Pereira
 
 Projeto Mini Loja - EPI | 2025
+
