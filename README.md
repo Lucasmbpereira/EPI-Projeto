@@ -69,7 +69,7 @@ mini_projeto_django_loja/
 
 ### 1️⃣ Clonar o repositório
 ```bash
-git clone https://github.com/Gubinha/mini_projeto_django_loja.git
+git clone https://github.com/Lucasmbpereira/EPI-Projeto.git
 cd mini_projeto_django_loja
 git fetch origin
 git checkout epi
@@ -117,4 +117,5 @@ style: atualizar layout único
 Desenvolvido por Lucas Pereira
 
 Projeto Mini Loja - EPI | 2025
+
 
